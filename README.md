@@ -8,5 +8,5 @@ Core dependencies:
 - SymPy
 - SciPy
 - Scikit-Learn
-- PySindy ver 1.7.2
+- PySindy ver 1.7.2 (or 1.8.0; "normalize" argument has been updated to "normalise_columns")
 - colorednoise
