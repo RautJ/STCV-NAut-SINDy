@@ -2,6 +2,7 @@
 Supporting Python code for thesis proposing STCV and NAut-SINDy
 
 Currently split into Jupyter Notebooks by topic inter/intra-section.
+Extract all archives in root folder. Archives contain simulated data.
 
 Core dependencies:
 - NumPy
