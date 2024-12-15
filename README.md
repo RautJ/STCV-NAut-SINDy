@@ -11,3 +11,6 @@ Core dependencies:
 - Scikit-Learn
 - PySindy ver 1.7.2 (or 1.8.0; "normalize" argument has been updated to "normalise_columns")
 - colorednoise
+
+Current code in in a debugging state.
+Pending minor renaming, reformatting, and deletion of reduntant functions to more directly match functions shown in the thesis.
